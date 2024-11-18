@@ -3,8 +3,7 @@
 [![CI](https://github.com/hirrolot/metalang99/workflows/C/C++%20CI/badge.svg)](https://github.com/hirrolot/metalang99/actions)
 [![docs](https://img.shields.io/badge/docs-readthedocs.io-blue)](https://metalang99.readthedocs.io/en/latest/)
 [![book](https://img.shields.io/badge/book-gitbook.io-pink)](https://hirrolot.gitbook.io/metalang99/)
-[![spec](https://img.shields.io/badge/spec-PDF-green)](https://github.com/hirrolot/metalang99/blob/master/spec/spec.pdf)
-[![mailing list](https://img.shields.io/badge/mailing%20list-lists.sr.ht-orange)](https://lists.sr.ht/~hirrolot/metalang99)
+[![specification](https://img.shields.io/badge/specification-PDF-green)](https://github.com/hirrolot/metalang99/blob/master/spec/spec.pdf)
 
 > The dark side of the force is a pathway to many abilities, some considered to be unnatural.<br>&emsp; &emsp; <b>-- Darth Sidious</b>
 
